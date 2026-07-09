@@ -1,0 +1,7 @@
+CODE_INSERT_SONG = '1'
+CODE_CREATE_PLAYLIST = '2'
+CODE_EXIT = '5'
+
+LABEL_INSERT_SONG = "Inserindo musica"
+LABEL_CREATE_PLAYLIST = "Criando playlist"
+LABEL_UNKNOWN_COMMAND = "Comando desconhecido"
