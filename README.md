@@ -1,2 +1,2 @@
 # clean-code-exercise
-a repository to exercise with clean code projects
+a repository to exercise clean code projects
